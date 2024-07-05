@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: <IMAGE>
+        image: shinsped/mywebapp:1
         ports:
         - containerPort: 8080
